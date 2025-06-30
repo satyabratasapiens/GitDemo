@@ -18,6 +18,7 @@ public class BrowserLaunch {
         driver.get("http://ohisnaplinux01:8080/coresuite-zk/login"); // Open URL
         
         System.out.println("Git Practice");
+        System.out.println("Addition to Develop Branch");
 
 	}
 
